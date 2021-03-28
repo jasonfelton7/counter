@@ -32,3 +32,9 @@ h1 {
 #value {
     font-size: 68px;
 }
+
+@media only screen and (orientation: landscape) {
+    .container {
+        margin-top: 5%;
+    }
+}
